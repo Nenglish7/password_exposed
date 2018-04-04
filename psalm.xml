@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
-<psalm
-    totallyTyped="false"
->
+<psalm name="DivineOmega/password_exposed Psalm Configuration"
+       totallyTyped="false">
     <projectFiles>
-        <directory name="src" />
+        <directory name="./src" />
     </projectFiles>
 </psalm>
